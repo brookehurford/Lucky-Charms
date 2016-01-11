@@ -1,0 +1,35 @@
+.show-rainbow, .show-charms, .show-gold {
+  display:none;
+}
+
+.clickable1, .clickable2, .clickable3 {
+  cursor:pointer;
+  color: #0088cc;
+}
+
+.clickable1:hover, .clickable2:hover, .clickable3:hover  {
+  text-decoration:underline;
+}
+
+img {
+  display:block;
+  margin:auto;
+  width:50%;
+}
+
+.rainbow, .charms, .gold {
+  display: none;
+}
+
+h1 {
+  font-weight: bolder;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+body {
+  background-color: #97e3ad;
+}
